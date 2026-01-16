@@ -1,0 +1,8 @@
+{
+  "name": "Thamizhi AI",
+  "description": "A comprehensive AI assistant dedicated to the Tamil language, offering high-quality text chat, real-time voice interaction, and image generation—all powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
